@@ -1,4 +1,3 @@
-
 Source installation information for modders
 -------------------------------------------
 This code follows the Minecraft Forge installation methodology. It will apply
@@ -44,3 +43,10 @@ Community Documentation: https://docs.minecraftforge.net/en/latest/gettingstarte
 LexManos' Install Video: https://youtu.be/8VEdtQLuLO0
 Forge Forums: https://forums.minecraftforge.net/
 Forge Discord: https://discord.minecraftforge.net/
+
+Forge
+https://docs.minecraftforge.net/en/latest/gettingstarted/
+
+Gradle
+https://docs.gradle.org/current/userguide/gradle_basics.html
+https://docs.gradle.org/current/userguide/gradle_wrapper.html
